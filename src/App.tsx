@@ -5,7 +5,7 @@ import * as THREE from 'three';
 // import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader';
 // import { VOXLoader } from 'three/examples/jsm/loaders/VOXLoader';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
-
+//added three
 import SceneInit from './lib/SceneInit.js';
 
 function App() {
